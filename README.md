@@ -1,2 +1,2 @@
 # test-rename
-Testing renaming branches in a repo under active development
+Testing renaming branches in a repo under active development.
